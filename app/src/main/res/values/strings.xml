@@ -5,6 +5,8 @@
     <string name="brands">No beers selected</string>
     <string name="to">To</string>
     <string name="message">Message</string>
+    <string name="image_of_a_duck">Image of a Duck</string>
+    <string name="hi_i_m_a_duck">HI ! I\'M A DUCK</string>
 
     <string-array name="beer_colors">
         <item>Light</item>
