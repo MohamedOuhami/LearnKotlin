@@ -1,17 +1,6 @@
 <resources>
     <string name="app_name">Learn Kotlin</string>
-    <string name="find_button">Find Button</string>
-    <string name="beer_types">Beer Types</string>
-    <string name="brands">No beers selected</string>
-    <string name="to">To</string>
-    <string name="message">Message</string>
-    <string name="image_of_a_duck">Image of a Duck</string>
-    <string name="hi_i_m_a_duck">HI ! I\'M A DUCK</string>
-
-    <string-array name="beer_colors">
-        <item>Light</item>
-        <item>Amber</item>
-        <item>Brown</item>
-        <item>Dark</item>
-    </string-array>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+    <string name="reset">Reset</string>
 </resources>
